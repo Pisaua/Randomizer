@@ -1,4 +1,4 @@
-###English
+#English
 
 Randomizer Application with Health Check
 A simple and efficient password and nickname randomizer application with a built-in health check feature. The health check verifies if the main randomizer application is working properly and logs any errors or issues in a log.txt file.
