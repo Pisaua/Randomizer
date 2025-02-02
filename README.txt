@@ -53,4 +53,4 @@ Disclaimer: This application is not meant for any malicious or real-world use. I
 
 randomizer.bat과 health_check.bat 파일을 같은 디렉토리에 배치.
 health_check.bat을 실행하여 랜덤화 프로그램의 작동 여부를 확인.
-면책 조항: 이 프로그램은 악의적인 용도나 실제 사용을 위한 것이 아닙니다. 교육 및 테스트 목적으로만 사용됩니다.# Randomizer
+면책 조항: 이 프로그램은 악의적인 용도나 실제 사용을 위한 것이 아닙니다. 교육 및 테스트 목적으로만 사용됩니다.
